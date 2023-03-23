@@ -1,0 +1,23 @@
+body{
+    background-color: #c1b317;
+}
+
+.titulo{
+    color:orangered; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size:100 px;
+}
+
+h3{
+    color:black;
+}
+
+.hr-class{
+    background-color:orangered;
+    height: 30px;
+}
+
+
+.descripcion{
+    color:dimgrey;
+}

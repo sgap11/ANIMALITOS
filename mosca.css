@@ -1,0 +1,23 @@
+body{
+    background-color: #cde0cd;
+}
+
+.titulo{
+    color:darkmagenta; 
+    font-family:'Times New Roman', Times, serif;
+    font-size:80 px;
+}
+
+h3{
+    color:black;
+}
+
+.hr-class{
+    background-color:darkmagenta;
+    height: 20 px;
+}
+
+
+.descripcion{
+    color:dimgrey;
+}

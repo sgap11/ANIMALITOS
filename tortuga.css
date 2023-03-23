@@ -1,0 +1,23 @@
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:red;
+
+}
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:red;
+}
+body{
+    background-image: url(https://i.pinimg.com/564x/f5/21/68/f521681739d60b313a9850b3bf1eaee9.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+img.izquierda{
+    float: left;
+    margin: 30px;
+}

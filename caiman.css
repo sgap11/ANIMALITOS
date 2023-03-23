@@ -1,0 +1,21 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blanchedalmond;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: purple;
+}
+body{
+    background-color: aqua;
+    font-family:Arial, Helvetica, sans-serif;
+    color:orange;
+    font-size: medium;
+    background-image: url(https://th.bing.com/th/id/R.a16e9052b11faf5ae9e225a748b69424?rik=E3rK%2bCX%2f4nTHQA&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+    height: 100vh;
+
+
+}

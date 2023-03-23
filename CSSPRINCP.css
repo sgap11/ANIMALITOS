@@ -1,0 +1,54 @@
+hr{
+    border-color: black;
+    height: 2px;
+}
+body{
+  
+    background-image: url(backgaves.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-top: 60px;
+    
+
+}
+
+li{
+    color: #181414;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    color: rgb(27, 23, 23);
+    font-size: 150%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #181414;
+    font-size: 70px;
+}
+
+section{
+    display: flex;
+    width:850px;
+    height:400px;
+}
+section img{
+    height: calc(100% - 5vh); 
+    margin: 2px; 
+    display: block;
+    width: 100%;    
+    opacity: .8;  
+    border-radius: 10px;   
+}
+section img:hover{ 
+    width: 550px;
+    opacity: 1;
+    filter: contrast(120%);
+}

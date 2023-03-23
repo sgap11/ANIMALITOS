@@ -1,0 +1,306 @@
+
+
+
+#bodytuc{
+    background-color: rgb(34, 139, 53);
+    margin: 50px;
+}
+
+.divcartuc{
+    width: 350px;
+    height: 672px;
+    background-color: rgb(29, 110, 29);
+    text-align: left;
+    float: right;
+    padding: 0%;
+}
+ol{
+    list-style-type: circle;
+}
+
+
+
+#inftuc{
+    background-color: rgb(13, 131, 13);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    color: aliceblue;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+#imagentucan{
+    background-image: url("tucan1.jpg");
+    background-position: right;
+    height: 672px;
+    width: 1000px;
+    padding: 0%;
+    
+}
+
+
+#tittuc{
+    
+    background-color: rgb(0, 107, 32);
+    padding: 0%;
+    float: center;
+    margin-top: 0%;
+    text-align: center;
+    height: 90px;
+}
+
+li{
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-style: oblique;
+    text-align: left;
+    margin-right: 20px;
+}
+
+p{
+    color: aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-style: oblique;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    text-align: justify;
+
+
+
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(239, 255, 222);
+    font-size: 80px;
+    
+}
+
+#subt{
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+#bodygru{
+    background-color: rgb(154, 167, 108);
+    margin: 50px;
+}
+
+#titgru{
+    
+    background-color: rgb(76, 87, 37);
+    padding: 0%;
+    float: center;
+    margin-top: 0%;
+    text-align: center;
+    height: 90px;
+}
+
+.divcargru{
+    width: 350px;
+    height: 672px;
+    background-color: rgb(100, 117, 39);
+    text-align: left;
+    float: right;
+    padding: 0%;
+}
+
+#infgru{
+    background-color: rgb(176, 185, 87);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    color: aliceblue;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+
+#ligrulla{
+    font-size: 25px;
+}
+
+#imagengru{
+    background-image: url("grulla1.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 672px;
+    width: 1000px;
+    padding: 0%;
+    background-size: contain;
+}    
+
+
+
+
+
+
+
+
+#bodyfla{
+    background-color: rgb(192, 79, 98);
+    margin: 50px;
+}
+
+#titfla{
+    
+    background-color: rgb(247, 153, 153);
+    padding: 0%;
+    float: center;
+    margin-top: 0%;
+    text-align: center;
+    height: 90px;
+}
+
+.divcarfla{
+    width: 350px;
+    height: 672px;
+    background-color: rgb(100, 117, 39);
+    text-align: left;
+    float: right;
+    padding: 0%;
+}
+
+#inffla{
+    background-color: rgb(255, 148, 184);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    color: aliceblue;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+
+
+#imagenfla{
+    background-image: url("flamenco1.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 672px;
+    width: 1000px;
+    padding: 0%;
+}    
+
+
+
+
+
+
+
+
+
+
+
+
+#bodycue{
+    background-color: rgb(139, 139, 139);
+    margin: 50px;
+}
+
+#titcue{
+    
+    background-color: rgb(36, 36, 36);
+    padding: 0%;
+    float: center;
+    margin-top: 0%;
+    text-align: center;
+    height: 90px;
+}
+
+.divcarcue{
+    width: 350px;
+    height: 672px;
+    background-color: rgb(126, 126, 126);
+    text-align: left;
+    float: right;
+    padding: 0%;
+}
+
+#infcue{
+    background-color: rgb(88, 88, 88);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    color: aliceblue;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+
+
+#imagencue{
+    background-image: url("cuervo1.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 672px;
+    width: 1000px;
+    padding: 0%;
+    background-size: contain;
+}    
+
+
+
+
+
+
+
+
+
+
+
+
+#bodyagui{
+    background-color: rgb(214, 212, 212);
+    margin: 50px;
+}
+
+#titagui{
+    
+    background-color: rgb(255, 244, 86);
+    padding: 0%;
+    float: center;
+    margin-top: 0%;
+    text-align: center;
+    height: 90px;
+}
+
+.divcaragui{
+    width: 350px;
+    height: 672px;
+    background-color: rgba(63, 42, 28, 0.979);
+    text-align: left;
+    float: right;
+    padding: 0%;
+}
+
+#infagui{
+    background-color: rgb(145, 95, 71);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    color: aliceblue;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+
+
+#imagenagui{
+    background-image: url("aguila1.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 672px;
+    width: 1000px;
+    padding: 0%;
+    background-size: contain;
+}    
+
